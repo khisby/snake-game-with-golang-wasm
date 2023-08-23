@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSaveMode": "file",
+  "go.toolsEnvVars": {
+    "GOARCH": "wasm",
+    "GOOS": "js"
+  },
+  "go.testEnvVars": {
+    "GOARCH": "wasm",
+    "GOOS": "js"
+  }
+}
